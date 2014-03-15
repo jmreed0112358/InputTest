@@ -28,7 +28,7 @@ public class InputTestMain
 
 			System.out.println( "Got: " + userInput );
 
-			System.out.print( "Enter a integer: >> " );
+			System.out.print( "Enter an integer: >> " );
 			int userInt = input.nextInt( );
 
 			System.out.println( "Got: " + userInt );
