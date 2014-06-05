@@ -54,6 +54,7 @@ public class InputTestMain
 		}
 		finally
 		{
+			// Make sure all resources are closed.
 			if ( input != null )
 			{
 				input.close( );
